@@ -333,9 +333,10 @@ MIT License - see [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- Email: support@aiza.dev
+- Email: siddugarlapati.09@gmail.com
 - Issues: [GitHub Issues](https://github.com/siddugarlapati/AI-platform-/issues)
 
 ---
 
 **Built with ❤️ for Enterprise AI**
+
