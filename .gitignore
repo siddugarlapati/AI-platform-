@@ -69,3 +69,6 @@ build/
 *.tmp
 *.temp
 .cache/
+
+# Documentation
+*.md
